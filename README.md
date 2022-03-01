@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanchayan Bhunia</h1>
 <h3 align="center">BI Analyst and Computer Science student from Italy.</h3>
 
-<p align="left"> <a href="https://twitter.com/sanchayan_bh" target="blank"><img src="https://img.shields.io/twitter/follow/sanchayan_bh?logo=twitter&style=for-the-badge" alt="sanchayan_bh" /></a> </p>
-
 - 🔭 I’m currently working on <a href="https://github.com/sanchayan721/Multi_agent_Immune_System" target="_blank">MAiS</a>
 
-- 🌱 I’m currently learning **Cassandra, Neo4j, RDFS & OWL**
-
 - 🌐 Visit my website <a href="https://www.sanchayanbhunia.com" target="_blank">www.sanchayanbhunia.com</a>
-
-- 💬 Ask me about **JADE, Tableau, D3.js, React, Node.js, Express**
 
 - 📫 How to reach me **bhunia.sanchayan@gmail.com**
 
