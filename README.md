@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/sanchayan721/Multi_agent_Immune_System" target="_blank">MAiS</a>
 
-- 🌐 Visit my website <a href="https://www.sanchayanbhunia.com" target="_blank">sanchayanbhunia.com</a>
+- 🌐 Visit my website 👉 <a href="https://www.sanchayanbhunia.com" target="_blank">sanchayanbhunia.com</a>
 
-- 📫 Want to reach me? <a href="https://www.sanchayanbhunia.com/#contact" target="_blank">Connect</a>
+- 📫 Want to reach me? 👉 <a href="https://www.sanchayanbhunia.com/#contact" target="_blank">Connect</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
