@@ -5,7 +5,7 @@
 
 - 🌐 Visit my website <a href="https://www.sanchayanbhunia.com" target="_blank">sanchayanbhunia.com</a>
 
-- 📫 How to reach me <a href="https://www.sanchayanbhunia.com/#contact" target="_blank">Connect</a>
+- 📫 Want to reach me? <a href="https://www.sanchayanbhunia.com/#contact" target="_blank">Connect</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
