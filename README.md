@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanchayan Bhunia</h1>
-<h3 align="center">BI Analyst and Computer Science student from Italy.</h3>
+<h3 align="center">Full-stack Developer and BI student from Italy.</h3>
 
 - 🔭 I’m currently working on <a href="https://github.com/sanchayan721/Multi_agent_Immune_System" target="_blank">MAiS</a>
 
